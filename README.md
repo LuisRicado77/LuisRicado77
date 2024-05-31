@@ -5,11 +5,11 @@ I am a passionate developer with a keen interest in Web Delevopment, Database Ad
 ## 🔧 Technologies and Tools
 - Languages: PHP, Java and JavaScripts.
 - Tools: Git, Bootstrap and Jira.
-- Frameworks: Laravel and Angular.
+- Frameworks: Laravel and React.
 
 
 ## 🌱 Currently Learning
-I am currently learning ActiveRecord, SQL SERVER and Angular.
+I am currently learning ActiveRecord, SQL SERVER and React.
 
 ## 📫 How to Reach Me
 - Email: lsricardo.2001@gmail.com
