@@ -15,7 +15,7 @@ I am currently learning ActiveRecord, SQL SERVER and React.
 - Email: lsricardo.2001@gmail.com
 
 
-<h2 align="center">Tecnologías que utilizo</h2>
+<h2 align="center">Technologies I use</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
