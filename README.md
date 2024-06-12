@@ -3,7 +3,7 @@
 I am a passionate developer with a keen interest in Web Delevopment, Database Administration and Networking. I love learning new technologies and collaborating on open-source projects.
 
 ## 🔧 Technologies and Tools
-- Languages: PHP, Java and JavaScripts.
+- Languages: PHP, Java and JavaScript.
 - Tools: Git, Bootstrap and Jira.
 - Frameworks: React.
 
