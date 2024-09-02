@@ -13,6 +13,7 @@ I am currently learning ActiveRecord, SQL SERVER and React.
 
 ## 📫 How to Reach Me
 - Email: lsricardo.2001@gmail.com
+- Linkedin: www.linkedin.com/in/luisricardo-sistemas
 
 
 <h2 align="center">Technologies I use</h2>
