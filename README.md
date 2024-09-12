@@ -3,13 +3,13 @@
 I am a passionate developer with a keen interest in Web Delevopment, Database Administration and Networking. I love learning new technologies and collaborating on open-source projects.
 
 ## 🔧 Technologies and Tools
-- Languages: PHP, Java and JavaScript.
+- Languages: PHP, Typescript and Dart.
 - Tools: Git, Bootstrap and Jira.
-- Frameworks: React.
+- Frameworks: React and Flutter.
 
 
 ## 🌱 Currently Learning
-I am currently learning ActiveRecord, SQL SERVER and React.
+I am currently learning Mongo, SQL SERVER and React.
 
 ## 📫 How to Reach Me
 - Email: lsricardo.2001@gmail.com
@@ -29,4 +29,5 @@ I am currently learning ActiveRecord, SQL SERVER and React.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="sql logo" />
 </p>
